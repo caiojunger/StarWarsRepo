@@ -1,6 +1,6 @@
 # Star Wars Repo
 
-![./tiefighter.jpg](TIE Fighter)
+![TIE Fighter](./tiefighter.jpg "TIE Fighter Picture")
 
 Este repositório...
 
